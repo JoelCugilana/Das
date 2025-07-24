@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 - Nome do projeto:
-- Integrantes:
+- Integrantes: Alexandre Fragoso, Joel Cugilana, Júlio Franco, Gonçalo Murrinha 
 - Repositório: [link]
 
 ## Branches Criadas
