@@ -1,8 +1,8 @@
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome do projeto:
-- Integrantes:
+- Nome do projeto: Das 
+- Integrantes: Alexandre Fragoso, Joel Cugilana, Júlio Franco, Gonçalo Murrinha 
 - Repositório: [link]
 
 ## Branches Criadas
